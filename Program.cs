@@ -6,7 +6,9 @@ namespace Weed
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MainMenu m = new MainMenu();
+            Seller s = new Seller(m.Name, 200, 4000);
+            Console.ReadKey();
         }
     }
 }

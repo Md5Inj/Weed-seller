@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/WeedSeller/Weed/bin/Debug/netcoreapp2.0/Weed.deps.json
+/home/md5inj/Рабочий стол/WeedSeller/Weed/bin/Debug/netcoreapp2.0/Weed.runtimeconfig.json
+/home/md5inj/Рабочий стол/WeedSeller/Weed/bin/Debug/netcoreapp2.0/Weed.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/WeedSeller/Weed/bin/Debug/netcoreapp2.0/Weed.dll
+/home/md5inj/Рабочий стол/WeedSeller/Weed/bin/Debug/netcoreapp2.0/Weed.pdb
+/home/md5inj/Рабочий стол/WeedSeller/Weed/obj/Debug/netcoreapp2.0/Weed.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/WeedSeller/Weed/obj/Debug/netcoreapp2.0/Weed.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/WeedSeller/Weed/obj/Debug/netcoreapp2.0/Weed.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/WeedSeller/Weed/obj/Debug/netcoreapp2.0/Weed.dll
+/home/md5inj/Рабочий стол/WeedSeller/Weed/obj/Debug/netcoreapp2.0/Weed.pdb
