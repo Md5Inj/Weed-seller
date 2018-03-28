@@ -39,7 +39,9 @@ namespace Weed {
                         input = new ConsoleKeyInfo((char)ConsoleKey.D0,ConsoleKey.D0, false, false, false);
                         break;
                     case ConsoleKey.D2:
-                        Console.WriteLine("Key 2 pressed"); break;
+                        Drugs d = new Drugs();
+                        d.Print();
+                        break;
                     case ConsoleKey.D3:
                         Console.WriteLine("Key 3 pressed"); break;
                     case ConsoleKey.D4:
